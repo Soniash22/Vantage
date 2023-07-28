@@ -1,15 +1,12 @@
 @import "./header.css";
 @import "./next.css";
 @import "./about.css";
+@import "./design.css";
+@import "./services.css";
 
 
-
-.notcontainer {
-    width: 1430px;
-    margin: 0 auto;
-}
 .container {
-    width: 1200px;
+    width: 1300px;
     margin: 0 auto
 }
 
