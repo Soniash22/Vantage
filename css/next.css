@@ -72,8 +72,8 @@ padding: 25px 70px;
 
 
     position: absolute;
-    top: 140px;
-    right: 205px;
+    top: 68px;
+    right: 68px;
     padding-right: 0;
     z-index: 1;
 }
@@ -82,8 +82,8 @@ width: 489px;
 height: 329px;
 background: #99823D;
 position: absolute;
-right: 135px;
-    bottom: 20px;
+right: 0px;
+    bottom: 0px;
 }
 .next_socmed a {
     color: #000;
