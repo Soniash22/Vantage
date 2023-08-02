@@ -49,7 +49,7 @@
 
   position: absolute;
   
-  z-index: 1;
+  z-index: 3;
 
   bottom: 0;
     
@@ -135,4 +135,7 @@
 .design_interior:nth-child(2) {
   position: absolute;
   z-index: 1;
+}
+.design_item:nth-child(2) .design_interior{
+  z-index: 2;
 }

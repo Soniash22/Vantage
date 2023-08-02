@@ -1,0 +1,154 @@
+footer {
+  background: #EBEBEB;
+  position: relative;
+  height: 454px;
+  padding: 68px;
+}
+
+.footer_block {
+  background: #3d3d3d;
+
+  width: 1304px;
+  height: 272px;
+  position: absolute;
+  right: 68px;
+}
+.footer_group {
+  display: flex;
+  justify-content: space-between;
+
+
+  padding: 68px;
+}
+.footer_list {
+  list-style-type: none;
+  display: inline-flex;
+  height: 33px;
+  padding-left: 0px;
+  justify-content: center;
+  align-items: center;
+  gap: 37px;
+
+
+}
+.footer_list a {
+  color: #FFF;
+text-align: center;
+font-family: Open Sans;
+font-size: 11px;
+font-style: normal;
+font-weight: 400;
+line-height: 34px; /* 309.091% */
+letter-spacing: 2.763px;
+text-transform: uppercase;
+
+text-decoration: none;
+}
+
+form {
+  width: 1168px;
+height: 204px;
+background: #99823D;
+
+display: flex;
+    align-items: center;
+    justify-content: center;
+top: 119px;
+    position: absolute;
+    z-index: 2;
+    
+}
+.placeholder {
+  width: 860px;
+height: 68px;
+
+color: #3D3D3D;
+
+font-family: Open Sans;
+font-size: 11px;
+font-style: normal;
+font-weight: 700;
+line-height: 34px; /* 309.091% */
+letter-spacing: 2.763px;
+text-transform: uppercase;
+
+padding-left: 40px;
+border: none;
+outline: none;
+}
+
+.btn {
+  color: #FFF;
+text-align: center;
+font-family: Open Sans;
+font-size: 11px;
+font-style: normal;
+font-weight: 700;
+line-height: 34px; /* 309.091% */
+letter-spacing: 2.763px;
+text-transform: uppercase;
+
+background: #141414;
+border: none;
+padding: 17px 36px;
+
+margin-left: 17px;
+}
+.footer_xblock {
+  width: 1440px;
+  height: 239px;
+  background: #141414;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  right: -35px;
+  position: absolute;
+  z-index: 1;
+  top: 148px;
+
+}
+.links_list {
+  display: inline-flex;
+  height: 33px;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 36px;
+list-style-type: none;
+padding-left: 140px;
+
+}
+.links_list a {
+  color: #FFF;
+  text-align: center;
+  font-family: Open Sans;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 34px; /* 309.091% */
+  letter-spacing: 2.763px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.footer_link a {
+  color: #FFF;
+text-align: center;
+font-family: Open Sans;
+font-size: 11px;
+font-style: normal;
+font-weight: 400;
+line-height: 34px; /* 309.091% */
+letter-spacing: 2.763px;
+text-transform: uppercase;
+text-decoration: none;
+
+}
+.footer_link a span {
+  color: rgba(255, 255, 255, 0.75);
+  padding-right: 10px;
+}
+.footer-two {
+  padding-right: 135px;
+}
+.footer_link {
+  margin-bottom: 15px;
+}

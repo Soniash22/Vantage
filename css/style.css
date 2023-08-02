@@ -3,7 +3,8 @@
 @import "./about.css";
 @import "./design.css";
 @import "./services.css";
-
+@import "./logos.css";
+@import "./footer.css";
 
 .container {
     width: 1300px;
