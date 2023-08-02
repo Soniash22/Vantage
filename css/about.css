@@ -81,6 +81,7 @@
 }
 .about_item:nth-child(1) {
     list-style-type: none;
+    padding: 0;
 }
 
 .aboutK_group {
@@ -96,4 +97,7 @@
 }
 .about_group p {
   margin-top: 135px;
+}
+.about_item {
+  padding-left: 60px;
 }
