@@ -2,9 +2,10 @@
   width: 11px;
   height: 11px;
   background: #222;
+  margin: 0 auto;
 }
 .services {
-  margin-top: 100px;
+  margin-top: 65px;
 }
 .services_two h5 {
   color: #99823d;
